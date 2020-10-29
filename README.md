@@ -1,4 +1,4 @@
-# Helo-World-Global
+# Hello-World-Global
 Welcome To The Proggraming World!😃👏👏
 <hr>
 <p><tt>Hello-World-Global Is A Repository Where You Can 
